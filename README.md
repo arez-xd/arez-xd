@@ -49,11 +49,16 @@ I treat design systems as long-term, evolving products.
 ## 🔧 Tools & Technologies
 
 ### Design & Prototyping
-
-<img src="https://cdn.simpleicons.org/figma" height="40" alt="Figma" /> <img src="https://cdn.simpleicons.org/framer" height="40" alt="Framer" /> <img src="https://cdn.simpleicons.org/webflow" height="40" alt="Webflow" /> <img src="https://cdn.simpleicons.org/cursor" height="40" alt="Cursor" />
+- **Figma** (variables, tokens, Dev Mode)
+- **ProtoPie**
+- **Framer**
+- **Webflow**
 
 ### Development & Implementation
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Cursor** (AI-assisted development)
 
 ### Motion & Visual
 - **After Effects**
