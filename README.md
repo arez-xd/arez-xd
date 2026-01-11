@@ -23,15 +23,13 @@ My work focuses on:
 
 ## 🧩 UX & Product Design
 
-- User research (qualitative & exploratory)
-- Jobs-to-be-Done thinking
-- User flows & journey mapping
+- Research-driven UX (qualitative, exploratory, JTBD)
+- Complex user flows & journey mapping
 - Wireframing (low → mid fidelity)
-- Interactive prototyping
-- Usability validation
+- Interactive prototyping & usability validation
 - Design rationale & documentation
 
-I pay particular attention to **edge cases, states, constraints, and system behavior**, not just happy paths.
+I pay particular attention to **edge cases, states, constraints, and system behavior**.
 
 ---
 
@@ -44,27 +42,34 @@ I pay particular attention to **edge cases, states, constraints, and system beha
 - Accessibility-aware UI decisions
 - Design → code alignment
 
-I treat design systems as **living products**, not static libraries.
+I treat design systems as long-term, evolving products.
 
 ---
 
 ## 🔧 Tools & Technologies
 
 ### Design & Prototyping
-- **Figma** (variables, tokens, Dev Mode)
-- **ProtoPie**
-- **Framer**
-- **Webflow**
+
+<img src="https://cdn.simpleicons.org/figma" height="40" alt="Figma" /> <img src="https://cdn.simpleicons.org/framer" height="40" alt="Framer" /> <img src="https://cdn.simpleicons.org/webflow" height="40" alt="Webflow" /> <img src="https://cdn.simpleicons.org/cursor" height="40" alt="Cursor" />
 
 ### Development & Implementation
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **Cursor** (AI-assisted development)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 
 ### Motion & Visual
 - **After Effects**
 - **Lottie Creator**
+
+---
+
+## 🧭 What I Use GitHub For
+
+I use GitHub as a working extension of my design practice.
+
+Here I:
+- document UX decisions and system logic
+- version and maintain semantic design tokens
+- explore design-to-code workflows
+- prototype interaction-heavy and state-driven UI
 
 ---
 
