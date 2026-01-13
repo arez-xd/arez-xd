@@ -25,7 +25,7 @@ My work focuses on:
 
 - Research-driven UX (qualitative, exploratory, JTBD)
 - Complex user flows & journey mapping
-- Wireframing (low → mid fidelity)
+- Wireframing (low / mid fidelity)
 - Interactive prototyping & usability validation
 - Design rationale & documentation
 
@@ -40,7 +40,7 @@ I pay particular attention to **edge cases, states, constraints, and system beha
 - Platform-aware tokens (web / mobile)
 - Component logic and variants
 - Accessibility-aware UI decisions
-- Design → code alignment
+- Design to code alignment
 
 I treat design systems as long-term, evolving products.
 
