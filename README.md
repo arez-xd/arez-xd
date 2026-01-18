@@ -65,16 +65,10 @@ I treat design systems as long-term, evolving products.
 - **Lottie Creator**
 
 ---
-
-## 🧭 What I Use GitHub For
-
-I use GitHub as a working extension of my design practice.
-
-Here I:
-- document UX decisions and system logic
-- version and maintain semantic design tokens
-- explore design-to-code workflows
-- prototype interaction-heavy and state-driven UI
+## 🧭 What You'll Find Here
+- **Design token libraries** (semantic color, typography, spacing systems)
+- **UX documentation** (decision logs, flow diagrams, system logic)
+- **Design-to-code workflows** (Figma to React, state-driven UI prototypes)
 
 ---
 
