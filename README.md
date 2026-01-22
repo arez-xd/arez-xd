@@ -49,10 +49,10 @@ I treat design systems as long-term, evolving products.
 ## 🔧 Tools & Technologies
 
 ### Design & Prototyping
-- **Figma** (variables, tokens, Dev Mode)
-- **ProtoPie**
+- **Figma** (variables, tokens, Dev Mode, Make)
 - **Framer**
 - **Webflow**
+- **ProtoPie**
 
 ### Development & Implementation
 - **HTML**
