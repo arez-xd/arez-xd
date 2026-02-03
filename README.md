@@ -49,20 +49,13 @@ I treat design systems as long-term, evolving products.
 ## 🔧 Tools & Technologies
 
 ### Design & Prototyping
-- **Figma** (variables, tokens, Dev Mode, Make)
-- **Framer**
-- **Webflow**
-- **ProtoPie**
+```Figma``` ```Framer``` ```Webflow``` ```Cursor``` ```ProtoPie```
 
 ### Development & Implementation
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **Cursor** (AI-assisted development)
+```HTML``` ```CSS``` ```JavaScript``` ```React```
 
 ### Motion & Visual
-- **After Effects**
-- **Lottie Creator**
+```After Effects``` ```Lottie Creator```
 
 ---
 ## 🧭 What You'll Find Here
