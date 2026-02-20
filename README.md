@@ -49,13 +49,13 @@ I treat design systems as long-term, evolving products.
 ## 🔧 Tools & Technologies
 
 ### Design & Prototyping
-**`Figma`** **`Framer`** **`Webflow`** **`Cursor`** **`Claude Code`** **`Make`**
+**`Figma`** **`Framer`** **`Webflow`** **`Cursor`** **`Claude Code`** **`ProtoPie`** 
 
 ### Development & Implementation
 **`HTML`** **`CSS`** **`JavaScript`** **`React`**
 
 ### Motion & Visual
-**`ProtoPie`** **`After Effects`** **`Lottie Creator`**
+**`After Effects`** **`Lottie Creator`**
 
 ---
 ## 🧭 What You'll Find Here
