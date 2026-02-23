@@ -68,4 +68,4 @@ I treat design systems as long-term, evolving products.
 ## 📫 Get in Touch
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/adamreznik/
-- 📧 Email: arez.idn@gmail.com
+- 📧 Email: adam.reznik@icloud.com
