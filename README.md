@@ -1,72 +1,15 @@
 # 👋 Hi, I’m Adam Reznik
 
-I’m a **Senior Product Designer** focused on building **complex, scalable digital products** with strong emphasis on **design systems, semantic tokens, and system-level UX**.
+**Senior product designer and design engineer** with 8+ years of experience: B2B and B2C SaaS, 3D/AR visualization, FinTech, AI-native and e-commerce products, reaching a collective audience of nearly a million users a month.
 
-I work at the intersection of **user research, interaction design, and implementation-ready UI**, bridging design and front-end workflows.
+My background spans design and engineering, which helps me balance user needs, visual clarity and technical constraints. I've led design teams, shipped products internationally and helped shape their growth strategies.
 
----
-
-## 🧠 What I Do
-
-I design products that are:
-- **systematic, scalable, and maintainable**
-- grounded in **real user problems and research**
-- ready for **handoff to engineering without friction**
-
-My work focuses on:
-- complex UX flows and information architecture  
-- design systems driven by **semantic tokens**  
-- consistency across platforms (web & mobile)  
-- close alignment between design and code
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=flat&logo=webflow&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 
 ---
 
-## 🧩 UX & Product Design
+**My products.** [Specsure](https://specsure.vercel.app) keeps code within the design system with open-source tools: a token diff, a GitHub Action and an MCP server. [Mockplate](https://mockplate.vercel.app) makes device mockups and product videos in the browser.
 
-- Research-driven UX (qualitative, exploratory, JTBD)
-- Complex user flows & journey mapping
-- Wireframing (low / mid fidelity)
-- Interactive prototyping & usability validation
-- Design rationale & documentation
+**Open tools from my agentic workflow.** [Product&nbsp;Design&nbsp;Harness](https://github.com/arez-xd/product-design-harness) runs a product design team in Claude Code, and [Design&nbsp;Taste](https://github.com/arez-xd/ux-ui-design-taste) gives agents that write UI a designer's judgment.
 
-I pay particular attention to **edge cases, states, constraints, and system behavior**.
-
----
-
-## 🎨 Design Systems & UI Engineering
-
-- Design systems architecture
-- Semantic tokens (color, typography, spacing, states)
-- Platform-aware tokens (web / mobile)
-- Component logic and variants
-- Accessibility-aware UI decisions
-- Design to code alignment
-
-I treat design systems as long-term, evolving products.
-
----
-
-## 🔧 Tools & Technologies
-
-### Design & Prototyping
-**`Figma`** **`Framer`** **`Webflow`** **`Cursor`** **`Claude Code`** **`ProtoPie`** 
-
-### Development & Implementation
-**`HTML`** **`CSS`** **`JavaScript`** **`React`**
-
-### Motion & Visual
-**`After Effects`** **`Lottie Creator`**
-
----
-## 🧭 What You'll Find Here
-- **Design token libraries** (semantic color, typography, spacing systems)
-- **UX documentation** (decision logs, flow diagrams, system logic)
-- **Design-to-code workflows** (Figma to React, state-driven UI prototypes)
-
----
-
-## 📫 Get in Touch
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/adamreznik/
-- 🌐 Portfolio: https://adamreznik.com
-- 📧 Email: arez.xdn@gmail.com
+[![Case studies](https://img.shields.io/badge/Case_studies-111111?style=flat)](https://adamreznik.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/adamreznik/) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat)](mailto:arez.xdn@gmail.com)
